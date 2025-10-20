@@ -10,6 +10,10 @@ Simple CLI tool to track personal expenses.
 - View spending breakdown by category
 - Persistent storage using JSON
 
+## Requirements
+
+- Python 3.6+
+
 ## Installation
 
 1. Clone the repository:
